@@ -1,6 +1,6 @@
 Hi, I'm Avinash 👋
 
-DevOps Engineer focused on building strong DevOps fundamentals.
+DevOps Engineer focusing on building strong DevOps fundamentals.
 
 Currently learning step by step through hands-on practice and projects.
 
